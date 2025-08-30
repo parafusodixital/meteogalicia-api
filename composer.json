@@ -1,0 +1,19 @@
+{
+    "name": "parafusodixital/meteogalicia-api",
+    "description": "API to retrieve and transform informacion from meteogalicia.gal",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Parafusodixital\\MeteogaliciaApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ignacio Colino",
+            "email": "gardeneer@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
